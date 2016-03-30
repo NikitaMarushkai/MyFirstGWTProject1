@@ -27,16 +27,6 @@ h1 {
     font-size: 75%;
 }
 
-.optionalTextWidget {
-    alignment: center;
-}
-
-.optionalTextBox {
-}
-
-.optionalCheckBox {
-}
-
 #Calendar {
     margin-left: 70%;
 }

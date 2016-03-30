@@ -9,11 +9,9 @@
 
 
     <!-- Specify the app entry point class.                   -->
-    <entry-point class='ru.kpfu.itis.group408.gwt.helloWorld.client.HelloWorld2'/>
+    <entry-point class='ru.kpfu.Nastya.helloWorld.client.HelloWorld'/>
 
 
-    <!-- Specify the app servlets.                   -->
-    <servlet path='/HelloWorldService' class='ru.kpfu.itis.group408.gwt.helloWorld.server.HelloWorldServiceImpl'/>
 
     <!-- Specify the paths for translatable code                    -->
     <source path='client'/>
